@@ -12,5 +12,6 @@ class MainActivity : AppCompatActivity() {
         Toast.makeText(this, getString(R.string.hello), Toast.LENGTH_LONG).show()
         Log.v("MainActivity", "Se ha creado correctamente")
 
+
     }
 }
